@@ -169,24 +169,31 @@ img {
     display: grid;
     gap: 14px;
     margin-top: 24px;
+    align-items: center;
 }
 
 .link-card {
     display: grid;
-    grid-template-columns: 44px 1fr 44px;
+    grid-template-columns: 44px 1fr 32px;
     align-items: center;
-    gap: 14px;
-    padding: 16px 18px;
-    background: rgba(201, 220, 230, 0.55);
-    border: 1px solid var(--border);
-    border-radius: 18px;
-    box-shadow: 0 10px 25px rgba(73, 106, 132, 0.08);
-    transition: transform 0.2s ease, background 0.2s ease;
+    gap: 16px;
+
+    width: min(720px, 100%);
+    margin: 0 auto;
+
+    padding: 12px 18px;
+
+    background: #f6f7f5;
+    border: 3px solid rgba(73, 106, 132, 0.75);
+
+    border-radius: 40px;
+
+    box-shadow: 10px 10px 0 rgba(29, 41, 64, 0.85);
+
+    transition: transform 0.12s ease;
 }
 
 .link-card:hover {
-    background: rgba(97, 135, 160, 0.92);
-    color: #fff;
     transform: translateY(-2px);
 }
 
@@ -399,9 +406,16 @@ img {
     }
 
     .link-card {
-        grid-template-columns: 36px 1fr;
+        grid-template-columns: 40px 1fr;
         gap: 12px;
-        padding: 14px 16px;
+        width: 100%;
+        padding: 12px 16px;
+        box-shadow: 14px 14px 0 rgba(48, 68, 105, 0.85);
+    }
+
+    .link-card:active {
+        transform: translate(6px, 6px);
+        box-shadow: 4px 4px 0 rgba(48, 68, 105, 0.85);
     }
 
     .link-card::after {
@@ -409,8 +423,9 @@ img {
     }
 
     .link-icon {
-        width: 36px;
-        height: 36px;
+        width: 40px;
+        height: 40px;
+        object-fit: contain;
     }
 
     .link-label {
