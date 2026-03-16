@@ -2,12 +2,15 @@
 
 Portfolio:
     Usar backend:
-        ☐ Investigar Cloudinary
-        ☐ Automatizar búsqueda de imágenes
-        ☐ Automatizar que se muestren las imágenes que está buscando
+        ✔ Investigar Cloudinary @done(26-03-16 14:52)
+        ✔ Automatizar búsqueda de imágenes @done(26-03-16 14:52)
+        ✔ Automatizar que se muestren las imágenes que está buscando @done(26-03-16 14:52)
     Exportar todo mi portafolio:
         ☐ Buscar mi arte de Krita
-        ☐ Buscar mi arte tradicional escaneada
+        Buscar mi arte tradicional escaneada:
+            ☐ Buscar las que tenga ya escaneadas, irlas ordenando altiro
+            ☐ Ordenar
+            ☐ Escanear todos los dibujos que me faltan
         ☐ Exportar toda mi arte de Procreate (tomará bastante tiempo)
     Hacer que cargue imágenes de a poco:
         ☐ Investigar

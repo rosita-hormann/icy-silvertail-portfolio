@@ -32,16 +32,16 @@ document.addEventListener("DOMContentLoaded", function () {
     // const triggers = document.querySelectorAll(".lightbox-trigger");
 
     document.addEventListener("click", function (event) {
-    const trigger = event.target.closest(".lightbox-trigger");
-    if (!trigger) return;
+        const trigger = event.target.closest(".lightbox-trigger");
+        if (!trigger) return;
 
-    const img = trigger.querySelector("img");
-    const fullSrc = trigger.getAttribute("data-full");
-    const altText = img ? img.getAttribute("alt") : "Expanded artwork";
+        const img = trigger.querySelector("img");
+        const fullSrc = trigger.getAttribute("data-full");
+        const altText = img ? img.getAttribute("alt") : "Expanded artwork";
 
-    if (fullSrc) {
-        openLightbox(fullSrc, altText);
-    }
+        if (fullSrc) {
+            openLightbox(fullSrc, altText);
+        }
     });
     function closeLightbox() {
         if (!lightbox || !lightboxImage) return;
@@ -83,50 +83,56 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 async function loadPortfolioFromJson() {
-  const portfolioMap = {
-    main_artworks: "gallery-main",
-    creatures: "gallery-creatures",
-    sketches: "gallery-sketches",
-    traditional: "gallery-traditional",
-  };
+    const portfolioMap = {
+        main_artworks: "gallery-main",
+        creatures: "gallery-creatures",
+        sketches: "gallery-sketches",
+        traditional: "gallery-traditional",
+    };
 
-  try {
-    const response = await fetch("gallery.json", { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`Could not load gallery.json (${response.status})`);
+    try {
+        const response = await fetch("gallery.json", { cache: "no-store" });
+        if (!response.ok) {
+            throw new Error(`Could not load gallery.json (${response.status})`);
+        }
+
+        const data = await response.json();
+
+        Object.entries(portfolioMap).forEach(([jsonKey, containerId]) => {
+            const container = document.getElementById(containerId);
+            if (!container) return;
+
+            const items = Array.isArray(data[jsonKey]) ? data[jsonKey] : [];
+
+            container.innerHTML = "";
+
+            const sortedItems = items.slice().sort((a, b) => {
+                const nameA = (a.display_name || a.public_id || "").toLowerCase();
+                const nameB = (b.display_name || b.public_id || "").toLowerCase();
+                return nameB.localeCompare(nameA);
+            });
+
+            sortedItems.forEach((item) => {
+                const imageUrl = item.secure_url;
+                const imageAlt = item.display_name || item.public_id || "Artwork";
+
+                if (!imageUrl) return;
+
+                const button = document.createElement("button");
+                button.className = "gallery-card lightbox-trigger";
+                button.type = "button";
+                button.dataset.full = imageUrl;
+
+                const img = document.createElement("img");
+                img.src = imageUrl;
+                img.alt = imageAlt;
+                img.loading = "lazy";
+
+                button.appendChild(img);
+                container.appendChild(button);
+            });
+        });
+    } catch (error) {
+        console.error("Error loading portfolio from gallery.json:", error);
     }
-
-    const data = await response.json();
-
-    Object.entries(portfolioMap).forEach(([jsonKey, containerId]) => {
-      const container = document.getElementById(containerId);
-      if (!container) return;
-
-      const items = Array.isArray(data[jsonKey]) ? data[jsonKey] : [];
-
-      container.innerHTML = "";
-
-      items.forEach((item) => {
-        const imageUrl = item.secure_url;
-        const imageAlt = item.display_name || item.public_id || "Artwork";
-
-        if (!imageUrl) return;
-
-        const button = document.createElement("button");
-        button.className = "gallery-card lightbox-trigger";
-        button.type = "button";
-        button.dataset.full = imageUrl;
-
-        const img = document.createElement("img");
-        img.src = imageUrl;
-        img.alt = imageAlt;
-        img.loading = "lazy";
-
-        button.appendChild(img);
-        container.appendChild(button);
-      });
-    });
-  } catch (error) {
-    console.error("Error loading portfolio from gallery.json:", error);
-  }
 }
