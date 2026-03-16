@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="styles.css" />
-  <script src="template.js" defer></script>
-  <script src="script.js" defer></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="template.js" defer></script>
+    <script src="script.js" defer></script>
 </head>
+
 <body data-page="portfolio" data-title="Icy Silvertail | Portfolio">
-  <div id="site-app">
-    <main class="content-area">
-    
-    <!--
+    <div id="site-app">
+        <main class="content-area">
+
+            <!--
       <section class="hero compact-hero">
         <div class="hero-text">
           <p class="eyebrow">PORTFOLIO</p>
@@ -23,80 +25,67 @@
         </div>
       </section>
     -->
-    
-      <section class="portfolio-tabs-section">
-        <div class="tabs-toolbar" role="tablist" aria-label="Portfolio categories">
-          <button class="tab-button active" type="button" data-tab="tab-main">Main artworks</button>
-          <button class="tab-button" type="button" data-tab="tab-creatures">Creatures</button>
-          <button class="tab-button" type="button" data-tab="tab-sketches">Sketches</button>
-          <button class="tab-button" type="button" data-tab="tab-traditional">Traditional</button>
-        </div>
 
-        <section class="tab-panel active" id="tab-main">
-          <div class="gallery-grid">
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/main_artworks/Tales_From_Earthsea_Dragon.png">
-              <img src="assets/main_artworks/01_Tales_From_Earthsea_Dragon.png" alt="Tales From Earthsea Dragon" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/main_artworks/Coming_From_The_Mists.png">
-              <img src="assets/main_artworks/02_Coming_From_The_Mists.png" alt="Coming From The Mists" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/main-03.jpg">
-              <img src="assets/main-03.jpg" alt="Main artwork 3" />
-            </button>
-          </div>
-        </section>
+            <section class="portfolio-tabs-section">
+                <div class="tabs-toolbar" role="tablist" aria-label="Portfolio categories">
+                    <button class="tab-button active" type="button" data-tab="tab-main">Main artworks</button>
+                    <button class="tab-button" type="button" data-tab="tab-creatures">Creatures</button>
+                    <button class="tab-button" type="button" data-tab="tab-sketches">Sketches</button>
+                    <button class="tab-button" type="button" data-tab="tab-traditional">Traditional</button>
+                </div>
 
-        <section class="tab-panel" id="tab-creatures" hidden>
-          <div class="gallery-grid">
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/creature-01.jpg">
-              <img src="assets/creature-01.jpg" alt="Creature 1" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/creature-02.jpg">
-              <img src="assets/creature-02.jpg" alt="Creature 2" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/creature-03.jpg">
-              <img src="assets/creature-03.jpg" alt="Creature 3" />
-            </button>
-          </div>
-        </section>
+                <section class="tab-panel active" id="tab-main">
+                    <div class="gallery-grid">
+                        <button class="gallery-card lightbox-trigger" type="button"
+                            data-full="assets/portfolio/main_artworks/01_Tales_From_Earthsea_Dragon.png">
+                            <img src="assets/portfolio/main_artworks/01_Tales_From_Earthsea_Dragon.png"
+                                alt="Tales From Earthsea Dragon" />
+                        </button>
+                        <button class="gallery-card lightbox-trigger" type="button"
+                            data-full="assets/portfolio/main_artworks/02_Coming_From_The_Mists.png">
+                            <img src="assets/portfolio/main_artworks/02_Coming_From_The_Mists.png"
+                                alt="Coming From The Mists" />
+                        </button>
+                    </div>
+                </section>
 
-        <section class="tab-panel" id="tab-sketches" hidden>
-          <div class="gallery-grid">
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/sketch-01.jpg">
-              <img src="assets/sketch-01.jpg" alt="Sketch 1" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/sketch-02.jpg">
-              <img src="assets/sketch-02.jpg" alt="Sketch 2" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/sketch-03.jpg">
-              <img src="assets/sketch-03.jpg" alt="Sketch 3" />
-            </button>
-          </div>
-        </section>
+                <section class="tab-panel" id="tab-creatures" hidden>
+                    <div class="gallery-grid">
+                        <button class="gallery-card lightbox-trigger" type="button" data-full="assets/creature-01.jpg">
+                            <img src="assets/creature-01.jpg" alt="Creature 1" />
+                        </button>
+                    </div>
+                </section>
 
-        <section class="tab-panel" id="tab-traditional" hidden>
-          <div class="gallery-grid">
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/traditional-01.jpg">
-              <img src="assets/traditional-01.jpg" alt="Traditional 1" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/traditional-02.jpg">
-              <img src="assets/traditional-02.jpg" alt="Traditional 2" />
-            </button>
-            <button class="gallery-card lightbox-trigger" type="button" data-full="assets/traditional-03.jpg">
-              <img src="assets/traditional-03.jpg" alt="Traditional 3" />
-            </button>
-          </div>
-        </section>
-      </section>
-    </main>
+                <section class="tab-panel" id="tab-sketches" hidden>
+                    <div class="gallery-grid">
+                        <button class="gallery-card lightbox-trigger" type="button" data-full="assets/sketch-01.jpg">
+                            <img src="assets/sketch-01.jpg" alt="Sketch 1" />
+                        </button>
+                    </div>
+                </section>
 
-    <div class="lightbox" id="lightbox" hidden>
-      <div class="lightbox-backdrop" id="lightboxBackdrop"></div>
-      <div class="lightbox-dialog" role="dialog" aria-modal="true" aria-label="Expanded artwork view">
-        <button class="lightbox-close" id="lightboxClose" aria-label="Close image">×</button>
-        <img id="lightboxImage" src="" alt="Expanded artwork" />
-      </div>
+                <section class="tab-panel" id="tab-traditional" hidden>
+                    <div class="gallery-grid">
+                        <button class="gallery-card lightbox-trigger" type="button"
+                            data-full="assets/traditional-01.jpg">
+                            <img src="assets/traditional-01.jpg" alt="Traditional 1" />
+                        </button>
+                        </button>
+                    </div>
+                </section>
+            </section>
+
+
+            <div class="lightbox" id="lightbox" hidden>
+                <div class="lightbox-backdrop" id="lightboxBackdrop"></div>
+                <div class="lightbox-dialog" role="dialog" aria-modal="true" aria-label="Expanded artwork view">
+                    <button class="lightbox-close" id="lightboxClose" aria-label="Close image">×</button>
+                    <img id="lightboxImage" src="" alt="Expanded artwork" />
+                </div>
+            </div>
+        </main>
     </div>
-  </div>
 </body>
+
 </html>

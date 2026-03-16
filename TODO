@@ -1,0 +1,17 @@
+Portfolio:
+    Usar backend:
+        ☐ Investigar Cloudinary
+        ☐ Automatizar búsqueda de imágenes
+        ☐ Automatizar que se muestren las imágenes que está buscando
+    Exportar todo mi portafolio:
+        ☐ Buscar mi arte de Krita
+        ☐ Buscar mi arte tradicional escaneada
+        ☐ Exportar toda mi arte de Procreate (tomará bastante tiempo)
+    Hacer que cargue imágenes de a poco:
+        ☐ Investigar
+        ☐ carga progresiva
+        ☐ Lazy loading
+
+About me:
+    ☐ Rellenar about me
+    ☐ Linkear src code (Github)
