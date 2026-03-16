@@ -1,0 +1,87 @@
+{
+  "main_artworks": [
+    {
+      "display_name": "01_Tales_From_Earthsea_Dragon_jbruma",
+      "public_id": "Tales_From_Earthsea_Dragon_jbruma",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674117/Tales_From_Earthsea_Dragon_jbruma.png",
+      "width": 2732,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "02_Watching_Over_You_03_e5q2mg",
+      "public_id": "Watching_Over_You_03_e5q2mg",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674118/Watching_Over_You_03_e5q2mg.png",
+      "width": 1227,
+      "height": 1553,
+      "format": "png"
+    },
+    {
+      "display_name": "03_Coming_From_The_Mists_xoylph",
+      "public_id": "Coming_From_The_Mists_xoylph",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674116/Coming_From_The_Mists_xoylph.png",
+      "width": 1500,
+      "height": 1184,
+      "format": "png"
+    }
+  ],
+  "traditional": [
+    {
+      "display_name": "01_black_cat_bjvpfe",
+      "public_id": "black_cat_bjvpfe",
+      "asset_folder": "traditional",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674338/black_cat_bjvpfe.png",
+      "width": 3140,
+      "height": 2382,
+      "format": "png"
+    },
+    {
+      "display_name": "02_curved_horns_silos_ncmgrj",
+      "public_id": "curved_horns_silos_ncmgrj",
+      "asset_folder": "traditional",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674338/curved_horns_silos_ncmgrj.png",
+      "width": 2331,
+      "height": 2279,
+      "format": "png"
+    },
+    {
+      "display_name": "03_cat_angel_r6qaex",
+      "public_id": "cat_angel_r6qaex",
+      "asset_folder": "traditional",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674369/cat_angel_r6qaex.png",
+      "width": 1721,
+      "height": 1215,
+      "format": "png"
+    },
+    {
+      "display_name": "04_Dark_cyclops_creature_uo2sak",
+      "public_id": "Dark_cyclops_creature_uo2sak",
+      "asset_folder": "traditional",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674371/Dark_cyclops_creature_uo2sak.png",
+      "width": 1586,
+      "height": 1200,
+      "format": "png"
+    },
+    {
+      "display_name": "05_pointy_cat_ears_njabab",
+      "public_id": "pointy_cat_ears_njabab",
+      "asset_folder": "traditional",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674373/pointy_cat_ears_njabab.png",
+      "width": 1160,
+      "height": 1606,
+      "format": "png"
+    },
+    {
+      "display_name": "06_smiling_fanged_creature_sywgow",
+      "public_id": "smiling_fanged_creature_sywgow",
+      "asset_folder": "traditional",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674376/smiling_fanged_creature_sywgow.png",
+      "width": 1665,
+      "height": 1232,
+      "format": "png"
+    }
+  ]
+}
