@@ -1,5 +1,7 @@
-assets/portfolio_gallery/creatures/*
-assets/portfolio_gallery/fanart/*
-assets/portfolio_gallery/main_artworks/*
-assets/portfolio_gallery/sketches/*
-assets/portfolio_gallery/traditional/*
+assets/portfolio_gallery/01_main_artworks/*
+assets/portfolio_gallery/02_creatures/*
+assets/portfolio_gallery/03_traditional/*
+assets/portfolio_gallery/04_sketches/*
+assets/portfolio_gallery/05_fanart/*
+
+
