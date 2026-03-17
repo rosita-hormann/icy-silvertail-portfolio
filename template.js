@@ -1,7 +1,7 @@
 (function () {
     const siteConfig = {
         siteName: "Icy's Site",
-        favicon: "assets/favicon.png",
+        favicon: "assets/simplified-prof-pic.PNG",
         nav: [
             { href: "index.html", label: "Home", key: "home" },
             { href: "portfolio.html", label: "Portfolio", key: "portfolio" },
