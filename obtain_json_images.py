@@ -17,7 +17,7 @@ API_SECRET = os.environ["CLOUDINARY_API_SECRET"]
 # Clave JSON -> nombre exacto de la asset folder en Cloudinary
 FOLDERS: Dict[str, str] = {
     "main_artworks": "main-art",
-    # "creatures": "creatures",
+    "creatures": "creatures",
     # "sketches": "sketches",
     "traditional": "traditional",
 }

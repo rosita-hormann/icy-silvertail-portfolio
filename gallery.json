@@ -154,6 +154,359 @@
       "format": "png"
     }
   ],
+  "creatures": [
+    {
+      "display_name": "2021-09-16_bloody_monster_edited_zpodl6",
+      "public_id": "2021-09-16_bloody_monster_edited_zpodl6",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753090/2021-09-16_bloody_monster_edited_zpodl6.png",
+      "width": 3000,
+      "height": 2500,
+      "format": "png"
+    },
+    {
+      "display_name": "2021-09_Angelic_Demon_edited_xw7jdn",
+      "public_id": "2021-09_Angelic_Demon_edited_xw7jdn",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713846/2021-09_Angelic_Demon_edited_xw7jdn.png",
+      "width": 2300,
+      "height": 1839,
+      "format": "png"
+    },
+    {
+      "display_name": "2021_horse_beastars_style_osii6c",
+      "public_id": "2021_horse_beastars_style_osii6c",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753087/2021_horse_beastars_style_osii6c.png",
+      "width": 1523,
+      "height": 1475,
+      "format": "png"
+    },
+    {
+      "display_name": "2022-04-23_azazel_ggrwt5",
+      "public_id": "2022-04-23_azazel_ggrwt5",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713717/2022-04-23_azazel_ggrwt5.png",
+      "width": 5000,
+      "height": 6424,
+      "format": "png"
+    },
+    {
+      "display_name": "2022-04-23_Tsuchinoko_share_kvdgod",
+      "public_id": "2022-04-23_Tsuchinoko_share_kvdgod",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713716/2022-04-23_Tsuchinoko_share_kvdgod.png",
+      "width": 3000,
+      "height": 3000,
+      "format": "png"
+    },
+    {
+      "display_name": "2022-10-28_-_purple_nightmare_h41wqn",
+      "public_id": "2022-10-28_-_purple_nightmare_h41wqn",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713714/2022-10-28_-_purple_nightmare_h41wqn.png",
+      "width": 2492,
+      "height": 3126,
+      "format": "png"
+    },
+    {
+      "display_name": "2022-10_blue_oni_pdyf3m",
+      "public_id": "2022-10_blue_oni_pdyf3m",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713715/2022-10_blue_oni_pdyf3m.png",
+      "width": 3000,
+      "height": 3000,
+      "format": "png"
+    },
+    {
+      "display_name": "2022-10_headless_yhwdjf",
+      "public_id": "2022-10_headless_yhwdjf",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753112/2022-10_headless_yhwdjf.png",
+      "width": 2600,
+      "height": 3000,
+      "format": "png"
+    },
+    {
+      "display_name": "2022_Akhekh_favxqv",
+      "public_id": "2022_Akhekh_favxqv",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753097/2022_Akhekh_favxqv.png",
+      "width": 4300,
+      "height": 3000,
+      "format": "png"
+    },
+    {
+      "display_name": "2022_foek_anathomy_hdbipb",
+      "public_id": "2022_foek_anathomy_hdbipb",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713724/2022_foek_anathomy_hdbipb.png",
+      "width": 4731,
+      "height": 3228,
+      "format": "png"
+    },
+    {
+      "display_name": "2022_trying_new_technique_uwd5s8",
+      "public_id": "2022_trying_new_technique_uwd5s8",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753098/2022_trying_new_technique_uwd5s8.png",
+      "width": 1024,
+      "height": 1023,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-01_silvertail_z3dgpj",
+      "public_id": "2023-01_silvertail_z3dgpj",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753184/2023-01_silvertail_z3dgpj.jpg",
+      "width": 2048,
+      "height": 1951,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2023-06_s4pspl",
+      "public_id": "2023-06_s4pspl",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713706/2023-06_s4pspl.png",
+      "width": 2406,
+      "height": 1879,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-08-05_silvertail_varietis_rfjbkp",
+      "public_id": "2023-08-05_silvertail_varietis_rfjbkp",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753190/2023-08-05_silvertail_varietis_rfjbkp.png",
+      "width": 539,
+      "height": 543,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-09-25_creature_qwawbj",
+      "public_id": "2023-09-25_creature_qwawbj",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713700/2023-09-25_creature_qwawbj.jpg",
+      "width": 2048,
+      "height": 1535,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2023-09_-_Yellow_Fluffy_Dragon_ynho25",
+      "public_id": "2023-09_-_Yellow_Fluffy_Dragon_ynho25",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753191/2023-09_-_Yellow_Fluffy_Dragon_ynho25.png",
+      "width": 2732,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-10_A_Dragon_zmuovb",
+      "public_id": "2023-10_A_Dragon_zmuovb",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753290/2023-10_A_Dragon_zmuovb.png",
+      "width": 2732,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-12_faurs_kissing_kkusii",
+      "public_id": "2023-12_faurs_kissing_kkusii",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753292/2023-12_faurs_kissing_kkusii.png",
+      "width": 3024,
+      "height": 4032,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-12_roses_with_icy_np1vps",
+      "public_id": "2023-12_roses_with_icy_np1vps",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713698/2023-12_roses_with_icy_np1vps.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2023_faur_3d_model_vitjnk",
+      "public_id": "2023_faur_3d_model_vitjnk",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753116/2023_faur_3d_model_vitjnk.png",
+      "width": 1300,
+      "height": 1360,
+      "format": "png"
+    },
+    {
+      "display_name": "2023_sea_creatures_hkge3c",
+      "public_id": "2023_sea_creatures_hkge3c",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713708/2023_sea_creatures_hkge3c.png",
+      "width": 4698,
+      "height": 3576,
+      "format": "png"
+    },
+    {
+      "display_name": "2024-09-25_Dragon_With_Purple_Mane_megqpq",
+      "public_id": "2024-09-25_Dragon_With_Purple_Mane_megqpq",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713696/2024-09-25_Dragon_With_Purple_Mane_megqpq.png",
+      "width": 2048,
+      "height": 1951,
+      "format": "png"
+    },
+    {
+      "display_name": "2024-10-03_old_looking_creature_txx6x0",
+      "public_id": "2024-10-03_old_looking_creature_txx6x0",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753505/2024-10-03_old_looking_creature_txx6x0.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2024-10-29_cyclops_pachyderm_gzb4fd",
+      "public_id": "2024-10-29_cyclops_pachyderm_gzb4fd",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753506/2024-10-29_cyclops_pachyderm_gzb4fd.png",
+      "width": 1354,
+      "height": 1221,
+      "format": "png"
+    },
+    {
+      "display_name": "2024-11-09_creature_pg2ckx",
+      "public_id": "2024-11-09_creature_pg2ckx",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753513/2024-11-09_creature_pg2ckx.png",
+      "width": 1470,
+      "height": 1476,
+      "format": "png"
+    },
+    {
+      "display_name": "2024-11-09_p9bsab",
+      "public_id": "2024-11-09_p9bsab",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753516/2024-11-09_p9bsab.png",
+      "width": 1969,
+      "height": 1476,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-01-14_Angel_yl2rtu",
+      "public_id": "2025-01-14_Angel_yl2rtu",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713695/2025-01-14_Angel_yl2rtu.png",
+      "width": 1476,
+      "height": 1969,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-02-17_Fantasy_lynx_ondsgm",
+      "public_id": "2025-02-17_Fantasy_lynx_ondsgm",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753522/2025-02-17_Fantasy_lynx_ondsgm.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-03-02_Cyclops_worm_x5hhlz",
+      "public_id": "2025-03-02_Cyclops_worm_x5hhlz",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753527/2025-03-02_Cyclops_worm_x5hhlz.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-03-02_Worm_terp5m",
+      "public_id": "2025-03-02_Worm_terp5m",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753530/2025-03-02_Worm_terp5m.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-03-19_Creepy_unicorn_llqirp",
+      "public_id": "2025-03-19_Creepy_unicorn_llqirp",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753535/2025-03-19_Creepy_unicorn_llqirp.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-03-22_Grey_Scale_Dragon_s6xfmi",
+      "public_id": "2025-03-22_Grey_Scale_Dragon_s6xfmi",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713693/2025-03-22_Grey_Scale_Dragon_s6xfmi.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-04-20_Kiurbu_of_the_forest_d6k16h",
+      "public_id": "2025-04-20_Kiurbu_of_the_forest_d6k16h",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753537/2025-04-20_Kiurbu_of_the_forest_d6k16h.jpg",
+      "width": 2000,
+      "height": 1500,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2025-04-25_Zebra_Silos_rby68c",
+      "public_id": "2025-04-25_Zebra_Silos_rby68c",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753558/2025-04-25_Zebra_Silos_rby68c.jpg",
+      "width": 1280,
+      "height": 1730,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2025-09-07_Leopard_c4yzmt",
+      "public_id": "2025-09-07_Leopard_c4yzmt",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753643/2025-09-07_Leopard_c4yzmt.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-10-03_kiurbu_prof_pic_vb8cay",
+      "public_id": "2025-10-03_kiurbu_prof_pic_vb8cay",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773713693/2025-10-03_kiurbu_prof_pic_vb8cay.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-10-25_Faur_Sitting_wj0r6v",
+      "public_id": "2025-10-25_Faur_Sitting_wj0r6v",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753808/2025-10-25_Faur_Sitting_wj0r6v.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2026-01-14_the_pale_mask_rwwuby",
+      "public_id": "2026-01-14_the_pale_mask_rwwuby",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753845/2026-01-14_the_pale_mask_rwwuby.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2026-01-16_aparition_g0qffu",
+      "public_id": "2026-01-16_aparition_g0qffu",
+      "asset_folder": "creatures",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773753847/2026-01-16_aparition_g0qffu.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    }
+  ],
   "traditional": [
     {
       "display_name": "01_black_cat_bjvpfe",
