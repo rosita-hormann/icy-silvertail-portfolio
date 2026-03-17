@@ -112,6 +112,24 @@ async function loadPortfolioFromJson() {
                 return nameB.localeCompare(nameA);
             });
 
+            const getColumnCount = () => {
+                if (window.innerWidth <= 480) return 1;
+                if (window.innerWidth <= 900) return 2;
+                return 3;
+            };
+
+            const columnCount = getColumnCount();
+            const columns = [];
+            const columnHeights = [];
+
+            for (let i = 0; i < columnCount; i++) {
+                const column = document.createElement("div");
+                column.className = "gallery-column";
+                container.appendChild(column);
+                columns.push(column);
+                columnHeights.push(0);
+            }
+
             sortedItems.forEach((item) => {
                 const imageUrl = item.secure_url;
                 const imageAlt = item.display_name || item.public_id || "Artwork";
@@ -129,7 +147,14 @@ async function loadPortfolioFromJson() {
                 img.loading = "lazy";
 
                 button.appendChild(img);
-                container.appendChild(button);
+
+                const width = Number(item.width) || 1;
+                const height = Number(item.height) || 1;
+                const estimatedHeight = height / width;
+
+                const targetIndex = columnHeights.indexOf(Math.min(...columnHeights));
+                columns[targetIndex].appendChild(button);
+                columnHeights[targetIndex] += estimatedHeight;
             });
         });
     } catch (error) {
