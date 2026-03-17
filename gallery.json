@@ -1,30 +1,156 @@
 {
   "main_artworks": [
     {
-      "display_name": "01_Tales_From_Earthsea_Dragon_jbruma",
-      "public_id": "Tales_From_Earthsea_Dragon_jbruma",
+      "display_name": "2021-09-06_-_black_hole_qfzszx",
+      "public_id": "2021-09-06_-_black_hole_qfzszx",
       "asset_folder": "main-art",
-      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674117/Tales_From_Earthsea_Dragon_jbruma.png",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709305/2021-09-06_-_black_hole_qfzszx.png",
+      "width": 2480,
+      "height": 2000,
+      "format": "png"
+    },
+    {
+      "display_name": "2021-12-18_-_Windflower_sgd7et",
+      "public_id": "2021-12-18_-_Windflower_sgd7et",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709303/2021-12-18_-_Windflower_sgd7et.jpg",
+      "width": 2048,
+      "height": 2048,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2022_-_formed_by_glaciers_ituaa7",
+      "public_id": "2022_-_formed_by_glaciers_ituaa7",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709305/2022_-_formed_by_glaciers_ituaa7.png",
+      "width": 4000,
+      "height": 3000,
+      "format": "png"
+    },
+    {
+      "display_name": "2022_-_golden_desert_-_original_hs80ux",
+      "public_id": "2022_-_golden_desert_-_original_hs80ux",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709303/2022_-_golden_desert_-_original_hs80ux.png",
+      "width": 3704,
+      "height": 2162,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-08_Toweds_of_the_Desert_mgevdb",
+      "public_id": "2023-08_Toweds_of_the_Desert_mgevdb",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709303/2023-08_Toweds_of_the_Desert_mgevdb.png",
       "width": 2732,
       "height": 2048,
       "format": "png"
     },
     {
-      "display_name": "02_Watching_Over_You_03_e5q2mg",
-      "public_id": "Watching_Over_You_03_e5q2mg",
+      "display_name": "2023-09_Peak_of_the_World_uauos6",
+      "public_id": "2023-09_Peak_of_the_World_uauos6",
       "asset_folder": "main-art",
-      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674118/Watching_Over_You_03_e5q2mg.png",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709300/2023-09_Peak_of_the_World_uauos6.png",
+      "width": 1000,
+      "height": 1500,
+      "format": "png"
+    },
+    {
+      "display_name": "2023-10_Draco_Ascend_lzdvq8",
+      "public_id": "2023-10_Draco_Ascend_lzdvq8",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709299/2023-10_Draco_Ascend_lzdvq8.png",
+      "width": 2048,
+      "height": 2732,
+      "format": "png"
+    },
+    {
+      "display_name": "2024-10-29_-_Cthulhu_zkdk7x",
+      "public_id": "2024-10-29_-_Cthulhu_zkdk7x",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709297/2024-10-29_-_Cthulhu_zkdk7x.jpg",
+      "width": 5545,
+      "height": 4383,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2025-02-06_-_Snake_year_yfv7hq",
+      "public_id": "2025-02-06_-_Snake_year_yfv7hq",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709297/2025-02-06_-_Snake_year_yfv7hq.png",
+      "width": 2048,
+      "height": 2732,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-03-23_-_Tales_From_Earthsea_Dragon_xebc1v",
+      "public_id": "2025-03-23_-_Tales_From_Earthsea_Dragon_xebc1v",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709298/2025-03-23_-_Tales_From_Earthsea_Dragon_xebc1v.png",
+      "width": 2732,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-04-14_-_Dragon_stare_ddncqx",
+      "public_id": "2025-04-14_-_Dragon_stare_ddncqx",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709296/2025-04-14_-_Dragon_stare_ddncqx.jpg",
+      "width": 2000,
+      "height": 1499,
+      "format": "jpg"
+    },
+    {
+      "display_name": "2025-09-05_-_Faur_prof_pic_spgj4q",
+      "public_id": "2025-09-05_-_Faur_prof_pic_spgj4q",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709296/2025-09-05_-_Faur_prof_pic_spgj4q.png",
+      "width": 2048,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-10-17_-_Watching_Over_You_jvdyx4",
+      "public_id": "2025-10-17_-_Watching_Over_You_jvdyx4",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709304/2025-10-17_-_Watching_Over_You_jvdyx4.png",
       "width": 1227,
       "height": 1553,
       "format": "png"
     },
     {
-      "display_name": "03_Coming_From_The_Mists_xoylph",
-      "public_id": "Coming_From_The_Mists_xoylph",
+      "display_name": "2025-11-13_-_Horned_Aquatic_Creature_y043da",
+      "public_id": "2025-11-13_-_Horned_Aquatic_Creature_y043da",
       "asset_folder": "main-art",
-      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773674116/Coming_From_The_Mists_xoylph.png",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709296/2025-11-13_-_Horned_Aquatic_Creature_y043da.png",
+      "width": 2732,
+      "height": 2048,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-11-13_-_Knight_patem1",
+      "public_id": "2025-11-13_-_Knight_patem1",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709295/2025-11-13_-_Knight_patem1.png",
+      "width": 2490,
+      "height": 2945,
+      "format": "png"
+    },
+    {
+      "display_name": "2025-11-19_-_Coming_From_The_Mists_idavbb",
+      "public_id": "2025-11-19_-_Coming_From_The_Mists_idavbb",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709295/2025-11-19_-_Coming_From_The_Mists_idavbb.png",
       "width": 1500,
       "height": 1184,
+      "format": "png"
+    },
+    {
+      "display_name": "2026-02-02_-_Dragon_of_the_Mangroove_ckbaha",
+      "public_id": "2026-02-02_-_Dragon_of_the_Mangroove_ckbaha",
+      "asset_folder": "main-art",
+      "secure_url": "https://res.cloudinary.com/ds896uwry/image/upload/v1773709295/2026-02-02_-_Dragon_of_the_Mangroove_ckbaha.png",
+      "width": 1366,
+      "height": 1358,
       "format": "png"
     }
   ],
